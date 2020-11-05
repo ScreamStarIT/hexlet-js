@@ -19,5 +19,8 @@
   "homepage": "https://github.com/ScreamStarIT/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2"
   }
 }
